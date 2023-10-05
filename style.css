@@ -13,14 +13,27 @@ body {
     font-size: 55px;
 }
 
-h1 {
-    color: white;
+h5 {
+    color: black;
     font-family: 'Pixelify Sans', cursive;
     font-size: 40px;
 }
 
-h2{
-    color: white;
+p{
+    color: black;
     font-family: 'Pixelify Sans', cursive;
     font-size: 20px;
+}
+
+
+a {
+    font-family: 'Pixelify Sans', cursive;
+}
+
+input {
+    font-family: 'Pixelify Sans', cursive;
+}
+
+button {
+    font-family: 'Pixelify Sans', cursive;
 }
