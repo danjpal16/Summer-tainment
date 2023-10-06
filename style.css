@@ -37,3 +37,13 @@ input {
 button {
     font-family: 'Pixelify Sans', cursive;
 }
+
+
+
+
+.carousel img {
+    height: 400px;
+    width: 90%;
+    object-fit: cover;
+    object-position: center;
+}
