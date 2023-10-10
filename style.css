@@ -47,3 +47,8 @@ button {
     object-fit: cover;
     object-position: center;
 }
+
+.dodgeball {
+    height: 600px;
+    width: 500px;
+}
