@@ -38,6 +38,10 @@ button {
     font-family: 'Pixelify Sans', cursive;
 }
 
+li {
+    font-family: 'Pixelify Sans', cursive;
+}
+
 
 
 
@@ -51,4 +55,8 @@ button {
 .dodgeball {
     height: 600px;
     width: 500px;
+}
+
+.card-footer {
+    font-family: 'Pixelify Sans', cursive;
 }
